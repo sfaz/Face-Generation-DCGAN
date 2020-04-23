@@ -1,2 +1,2 @@
 # Face-Generation-DCGAN
-Implementation of DCGAN for face generation. 
+Implementation of DCGAN for fake face generation. 
